@@ -1,0 +1,5 @@
+﻿  labv2.cpp
+C:\Study\Вычмат\labs\labv2\labv2\cmath.h(135,61): warning C4091:  typedef : пропускается слева от "polynomial", когда ни одна переменная не объявлена
+C:\Study\Вычмат\labs\labv2\labv2\cmath.h(143,47): warning C4091:  typedef : пропускается слева от "COMPLEX", когда ни одна переменная не объявлена
+C:\Study\Вычмат\labs\labv2\labv2\cmath.h(154,42): warning C4091:  typedef : пропускается слева от "BSPLSTRC", когда ни одна переменная не объявлена
+  labv2.vcxproj -> C:\Study\Вычмат\labs\labv2\Debug\labv2.exe

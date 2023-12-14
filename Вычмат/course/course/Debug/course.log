@@ -1,0 +1,6 @@
+﻿  course.cpp
+C:\Study\Вычмат\labs\course\course\cmath.h(135,61): warning C4091:  typedef : пропускается слева от "polynomial", когда ни одна переменная не объявлена
+C:\Study\Вычмат\labs\course\course\cmath.h(143,47): warning C4091:  typedef : пропускается слева от "COMPLEX", когда ни одна переменная не объявлена
+C:\Study\Вычмат\labs\course\course\cmath.h(154,42): warning C4091:  typedef : пропускается слева от "BSPLSTRC", когда ни одна переменная не объявлена
+C:\Study\Вычмат\labs\course\course\course.cpp(55,42): warning C4244:  инициализация: преобразование "double" в "int", возможна потеря данных
+  course.vcxproj -> C:\Study\Вычмат\labs\course\Debug\course.exe
